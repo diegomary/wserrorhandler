@@ -1,0 +1,1 @@
+Simple Error Handler in websockets
